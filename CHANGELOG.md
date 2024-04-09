@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.10
+
+### Fixed
+
+* REMOVE_GAMMA and DITHER options were always true
+
 ## 1.0.9
 
 ### Added
